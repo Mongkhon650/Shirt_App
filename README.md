@@ -40,7 +40,9 @@
   - File > Open Folder... > เปิดโฟลเดอร์ node-js-for-flutter
   - Terminal > New Terminal | จากนั้นพิมพ์ใน Terminal ที่ขึ้นมาใหม่
   - พิมพ์คำสั่ง npm install เพื่อทำการติดตั้ง node_modules ของเซิร์ฟเวอร์
+    
     ![image](https://github.com/user-attachments/assets/f2424b65-0115-4b6a-bdb4-82350ebb439e)
+
   - พิมพ์คำสั่ง npm start เพื่อทำการเปิดเซิร์ฟเวอร์
     ![image](https://github.com/user-attachments/assets/5bbf63b5-d5f3-4dfd-a9b7-dc057dbeb575)
 5. การรัน emulator หรือโทรศัพท์ android
