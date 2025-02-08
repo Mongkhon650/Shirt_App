@@ -24,7 +24,9 @@
   - ใช้คำสั่งนี้ไปยัง Workspace ที่ต้องการ
     - git clone https://github.com/Mongkhon650/Shirt_App
 3. การตั้งค่าฐานข้อมูล
-
+- ไปที่โฟลเดอร์ของ node-js-for-flutter > connection.js
+  - ทำการเปลี่ยน host, user กับ password เพื่อทำให้เชื่อมต่อกับเซิร์ฟเวอร์ได้ถูกต้อง
+    ![image](https://github.com/user-attachments/assets/3e6efd0a-309b-49e8-9a22-f1f71e9a8caf)
 4. คำสั่ง build project
 - flutter :
   - ไปยัง Android Studio
@@ -36,7 +38,10 @@
 - node.js :
   - ไปยัง Visual Studio Code
   - File > Open Folder... > เปิดโฟลเดอร์ node-js-for-flutter
-  - Terminal > New Terminal | จากนั้นพิมพ์ใน Terminal ที่ขึ้นมาใหม่ > npm start
+  - Terminal > New Terminal | จากนั้นพิมพ์ใน Terminal ที่ขึ้นมาใหม่
+  - พิมพ์คำสั่ง npm install เพื่อทำการติดตั้ง node_modules ของเซิร์ฟเวอร์
+    ![image](https://github.com/user-attachments/assets/f2424b65-0115-4b6a-bdb4-82350ebb439e)
+  - พิมพ์คำสั่ง npm start เพื่อทำการเปิดเซิร์ฟเวอร์
     ![image](https://github.com/user-attachments/assets/5bbf63b5-d5f3-4dfd-a9b7-dc057dbeb575)
 5. การรัน emulator หรือโทรศัพท์ android
 - Android Studio : Device manager > Add a new device > Create virtual device > Phone > Medium Phone > VanillaiceCream [API35 | x86_64]
