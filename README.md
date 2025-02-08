@@ -30,10 +30,14 @@
     - เปิดไฟล์ myfirstapp | ด้านในมีข้อมูลดังนี้
     ![image](https://github.com/user-attachments/assets/f030c9b4-71de-40d5-8174-82fdaf16e149)
     - ไปที่ Terminal ![image](https://github.com/user-attachments/assets/04cd413a-55dc-4061-b1f8-30407055e330)
+      - พิมพ์คำสั่ง flutter pub get ใน Terminal| เพื่อทำการติดตั้ง dependencies ในแอปพลิเคชัน
+      - พิมพ์คำสั่ง flutter run lib/main.dart ใน Terminal | เพื่อทำการรันแอปพลิเคชัน
 - node.js :
   - ไปยัง Visual Studio Code
   - File > Open Folder... > เปิดโฟลเดอร์ node-js-for-flutter
   - Terminal > New Terminal | จากนั้นพิมพ์ใน Terminal ที่ขึ้นมาใหม่ > npm start
     ![image](https://github.com/user-attachments/assets/5bbf63b5-d5f3-4dfd-a9b7-dc057dbeb575)
 5. การรัน emulator หรือโทรศัพท์ android
-- Android Studio : device manager > create 
+- Android Studio : Device manager > Add a new device > Create virtual device > Phone > Medium Phone > VanillaiceCream [API35 | x86_64]
+  ![image](https://github.com/user-attachments/assets/a1e6744c-5fdd-46ac-9cd3-659be3559423)
+
