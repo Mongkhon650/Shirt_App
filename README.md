@@ -28,6 +28,7 @@
   - ทำการเปลี่ยน host, user กับ password เพื่อทำให้เชื่อมต่อกับเซิร์ฟเวอร์ได้ถูกต้อง
     ![image](https://github.com/user-attachments/assets/3e6efd0a-309b-49e8-9a22-f1f71e9a8caf)
 - ไปที่โฟลเดอร์ของ myfirstapp > lib > utils > config.dart
+- *กรณีใช้ Emulator สามารถใช้ http://10.0.2.2:3000 ได้เลย
 
   ![image](https://github.com/user-attachments/assets/694fbb84-b032-41b6-9e8f-f7104476d3c4)
 
