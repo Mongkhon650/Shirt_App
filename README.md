@@ -10,8 +10,8 @@
 2. การ import project
 - download AndroidStudio
 - download Dart and Flutter extension
-- download Flutter Code : Github link > git clone >
-- download Node.js Code : Github link > git clone >
+- download Flutter Code : Github link https://github.com/Mongkhon650/Shirt_App | ชื่อโฟลเดอร์ > myfirstapp
+- download Node.js Code : Github link https://github.com/Mongkhon650/Shirt_App | ชื่อโฟลเดอร์ > node-js-for-flutter
 3. การตั้งค่าฐานข้อมูล
 - Open HeidiSQL
   - ใส่ user และ password ที่ได้ตั้งค่าจาก mariaDB
