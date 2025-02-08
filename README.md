@@ -40,4 +40,6 @@
 5. การรัน emulator หรือโทรศัพท์ android
 - Android Studio : Device manager > Add a new device > Create virtual device > Phone > Medium Phone > VanillaiceCream [API35 | x86_64]
   ![image](https://github.com/user-attachments/assets/a1e6744c-5fdd-46ac-9cd3-659be3559423)
-
+  ![image](https://github.com/user-attachments/assets/387036a3-84cd-4826-b8f7-14c28a106ce8)
+  ![image](https://github.com/user-attachments/assets/31563a7d-847a-4e57-811a-4b403a3739d1)
+  ![image](https://github.com/user-attachments/assets/f5cb3b99-71e0-4a50-9b15-8a1c070be801)
