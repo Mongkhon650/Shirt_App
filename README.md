@@ -19,6 +19,7 @@
   - File>Load SQL file...> เลือก B_Shop.sql
   ![image](https://github.com/user-attachments/assets/11b91b7d-bd6e-4243-8c93-0ab1207e3200)
   - กด F9 หรือ กดที่ปุ่มนี้ ![image](https://github.com/user-attachments/assets/b6963c63-96fe-4461-afa6-15c1fd3b7ed2)
+    ![image](https://github.com/user-attachments/assets/f44cc984-ac79-4e90-87f0-d65a7ed45c37)
 4. คำสั่ง build project
 - flutter : termenal > flutter run app
 - node.js :termenal > npm start
