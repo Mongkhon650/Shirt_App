@@ -24,9 +24,15 @@
   - ใช้คำสั่งนี้ไปยัง Workspace ที่ต้องการ
     - git clone https://github.com/Mongkhon650/Shirt_App
 3. การตั้งค่าฐานข้อมูล
-- ไปที่โฟลเดอร์ของ node-js-for-flutter > connection.js
+- ไปที่โฟลเดอร์ของ node-js-for-flutter > db > connection.js
   - ทำการเปลี่ยน host, user กับ password เพื่อทำให้เชื่อมต่อกับเซิร์ฟเวอร์ได้ถูกต้อง
     ![image](https://github.com/user-attachments/assets/3e6efd0a-309b-49e8-9a22-f1f71e9a8caf)
+- ไปที่โฟลเดอร์ของ myfirstapp > lib > utils > config.dart
+
+  ![image](https://github.com/user-attachments/assets/694fbb84-b032-41b6-9e8f-f7104476d3c4)
+
+  - ที่ http://10.1.15.113:3000 สามารถเปลี่ยนเป็น IP อื่นได้ที่มือถือได้ทำการใช้ Wi-Fi เดียวกันกับตัวเปิดเซิร์ฟเวอร์
+  *- (มือถือและเซิร์ฟเวอร์จะต้องใช้ Wi-Fi เดียวกัน มือถือไม่สามารถแชร์ฮอตสปอตให้เซิร์ฟเวอรใช้ได้)
 4. คำสั่ง build project
 - flutter :
   - ไปยัง Android Studio
@@ -52,5 +58,6 @@
   ![image](https://github.com/user-attachments/assets/31563a7d-847a-4e57-811a-4b403a3739d1)
   ![image](https://github.com/user-attachments/assets/f5cb3b99-71e0-4a50-9b15-8a1c070be801)
   - ไปที่ Running Devices
-    ![image](https://github.com/user-attachments/assets/b2bdd0c7-5a4d-4390-972c-7934b1c8600b)
+
+  ![image](https://github.com/user-attachments/assets/b2bdd0c7-5a4d-4390-972c-7934b1c8600b)
 
