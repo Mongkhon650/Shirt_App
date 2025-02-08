@@ -25,7 +25,8 @@
 - flutter : termenal > flutter run app
 - node.js :termenal > npm start
   - ไปยัง Visual Studio Code
-  - File>Open Folder... > เปิดโฟลเดอร์ node-js-for-flutter
+  - File > Open Folder... > เปิดโฟลเดอร์ node-js-for-flutter
+  - Terminal > New Terminal | จากนั้นพิมพ์ใน Terminal ที่ขึ้นมาใหม่ > npm start
     ![image](https://github.com/user-attachments/assets/5bbf63b5-d5f3-4dfd-a9b7-dc057dbeb575)
 5. การรัน emulator หรือโทรศัพท์ android
-- androiStudio : device manager > create 
+- Android Studio : device manager > create 
